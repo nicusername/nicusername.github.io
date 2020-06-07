@@ -8,6 +8,6 @@ I will try to make it readable with [Markdown](https://guides.github.com/feature
 * Progress not perfection
 
 
-![GitHub Logo](/images/logo.png)
+![robot](/images/steve-johnson-WkJPu3rEeJE-unsplash.jpg)
 
 Photo by Steve Johnson on Unsplash
